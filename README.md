@@ -3,7 +3,7 @@
 
 I am a learning developer currently learning Game Development, C#, Visual Basic, and possibly JS.
 
-- 🔭 I’m currently working on AniPlayer
+- 🔭 I’m currently working on AniPlayer Multi-Media Player
 - 🌱 I’m currently learning C#/VB
 - 🤔 I’m looking for help with WMP SDK
 - 🥅 2020 Goals: Finish my first big project
