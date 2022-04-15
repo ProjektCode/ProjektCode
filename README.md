@@ -8,4 +8,4 @@ I am a learning developer currently learning C#, Visual Basic, and Web Developme
 - 🥅 2021 Goals: Finish my first big project
 - ⚡ Fun fact: I love anime and Manga!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Projekt-Dev&&show_icons=true&title_color=a2293c&icon_color=a2293c&text_color=FFFFFF&bg_color=161616)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjektCode&&show_icons=true&title_color=a2293c&icon_color=a2293c&text_color=FFFFFF&bg_color=161616)  
