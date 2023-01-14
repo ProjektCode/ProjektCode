@@ -1,4 +1,4 @@
-![](https://github.com/Projekt-Dev/Projekt-Dev/blob/main/ProjektCode-Lucy.png)
+![align="center"](https://github.com/Projekt-Dev/Projekt-Dev/blob/main/ProjektCode-Lucy.png)
 
 <h1 align="center">Hello, I'm ProjektCode</h1>
 <h3 align="center">A weeb programmer who makes things for fun</h3>
