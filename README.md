@@ -1,4 +1,4 @@
-![](https://github.com/Projekt-Dev/Projekt-Dev/blob/main/Profile.png)
+![](https://github.com/Projekt-Dev/Projekt-Dev/blob/main/ProjektCode-Lucy.png)
 
 I am a learning developer currently learning C#, Visual Basic, and Web Development. So many things at once.
 
