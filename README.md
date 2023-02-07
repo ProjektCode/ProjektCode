@@ -12,6 +12,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-snowy.vercel.app/api/top-langs?username=ProjektCode&show_icons=true&locale=en&layout=compact" alt="ProjektCode" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-snowy.vercel.app/api?top-langs?username=ProjektCode&show_icons=true&locale=en&layout=compact" alt="ProjektCode" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats-sigma-snowy.vercel.app/api?username=ProjektCode](https://github-readme-stats.vercel.app/api?username=projektCode)&show_icons=true&locale=en" alt="ProjektCode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=projektCode" alt="ProjektCode" /></p>
