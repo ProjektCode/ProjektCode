@@ -4,11 +4,7 @@
 <h3 align="center">A weeb programmer who makes things for fun</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Lyuze a multi-purpose discord bot<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Game Development<br>💬 Ask me about Anime or Manga
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/projekt02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/projekt_fk7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ProjektDesigns) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMJJvdRDWmL4oSog7s5Qhqg) 
+🔭 I’m currently working on Lyuze a multi-purpose discord bot<br>🌱 I’m currently HomeLab, Docker and IT<br>💬 Ask me about Anime or Manga
 
 ![](https://github-readme-stats.vercel.app/api?username=ProjektCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProjektCode&theme=tokyonight&hide_border=false)<br/>
