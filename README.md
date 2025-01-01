@@ -4,7 +4,7 @@
 <h3 align="center">A weeb programmer who makes things for fun</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Lyuze a multi-purpose discord bot<br>🌱 I’m currently HomeLab, Docker and IT<br>💬 Ask me about Anime or Manga
+🔭 I’m currently working on Lyuze a multi-purpose discord bot<br>🌱 I’m currently learning HomeLab, Docker and IT<br>💬 Ask me about Anime or Manga
 
 ![](https://github-readme-stats.vercel.app/api?username=ProjektCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProjektCode&theme=tokyonight&hide_border=false)<br/>
