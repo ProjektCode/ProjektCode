@@ -37,12 +37,4 @@
 - [`byte86`](https://github.com/ProjektCode/byte86) — school 2D game dev project (C#).
 - [`Novella`](https://github.com/ProjektCode/Novella) — custom webapp manager that supports multiple browsers (Python).
 
-## Stats
-
-| GitHub Stats | Streak |
-| --- | --- |
-| ![ProjektCode GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjektCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![ProjektCode GitHub streak](https://streak-stats.demolab.com/?user=ProjektCode&theme=tokyonight&hide_border=true) |
-
-![ProjektCode top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCode&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Profile views](https://komarev.com/ghpvc/?username=ProjektCode&label=Profile%20views&style=flat-square&color=70a5fd)
