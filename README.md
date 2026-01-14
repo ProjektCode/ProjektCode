@@ -39,38 +39,10 @@
 
 ## Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        alt="ProjektCode GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=ProjektCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      />
-    </td>
-    <td>
-      <img
-        alt="ProjektCode GitHub streak stats"
-        src="https://streak-stats.demolab.com?user=ProjektCode&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img
-        alt="ProjektCode top languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCode&layout=compact&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+| GitHub Stats | Streak |
+| --- | --- |
+| ![ProjektCode GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjektCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![ProjektCode GitHub streak](https://streak-stats.demolab.com/?user=ProjektCode&theme=tokyonight&hide_border=true) |
 
-<details>
-  <summary><strong>Extras</strong></summary>
+![ProjektCode top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjektCode&layout=compact&theme=tokyonight&hide_border=true)
 
-  <br />
-
-  <img
-    alt="Profile views"
-    src="https://komarev.com/ghpvc/?username=ProjektCode&label=Profile%20views&style=flat-square&color=70a5fd"
-  />
-</details>
+![Profile views](https://komarev.com/ghpvc/?username=ProjektCode&label=Profile%20views&style=flat-square&color=70a5fd)
