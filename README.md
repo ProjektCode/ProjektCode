@@ -54,11 +54,11 @@
       2D game development project for school (C#).
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/ProjektCode/Novella">
-        <img src="https://img.shields.io/badge/Novella-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Novella" />
+      <a href="https://github.com/ProjektCode/Crimson">
+        <img src="https://img.shields.io/badge/Crimson-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Novella" />
       </a>
       <br /><br />
-      Custom webapp manager that supports multiple browsers.
+      Modern Dark theme with Crimson Accents.
     </td>
   </tr>
 </table>
